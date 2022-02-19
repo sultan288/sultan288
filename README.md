@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sultan288
+- 👋 Hi, I’m Md Tipu Sultan
 - 👀 I’m interested in coding, designing, travelling and enjoying the nature.
 - 🌱 I’m currently learning - html5, css3, javascript, bootstrap, jquery, React.js.
 - 💞️ I’m looking to collaborate on developers company.
